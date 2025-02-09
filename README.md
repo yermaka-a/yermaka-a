@@ -1,5 +1,3 @@
-# Resume
-
 **Ermak Erofeev**  
 2nd Year Student, Major in Information Technology 🎓  
 Email: ermak.080@mail.ru | Phone: +79968933003 | City: Angarsk
