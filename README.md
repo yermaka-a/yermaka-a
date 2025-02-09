@@ -46,7 +46,7 @@ Major: Information Technology 📚
 
 ### 5. Travel Advisor
 - **Description**: Developed a travel service application using React and TypeScript, incorporating features like maps and data management. This project allowed me to delve deeper into modern web development practices. ✈️
-- **Link**: [Explore Travel Advisor](https://gitflic.ru/project/yermaka/react-advisor/blob?file=README.md&branch=master&mode=markdown)
+- **Link**: [Explore Travel Advisor](https://github.com/yermaka-a/Travel-Advisor)
 
 ---
 
