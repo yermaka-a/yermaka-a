@@ -19,8 +19,8 @@ Major: Information Technology 📚
 ---
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, C/C++, Assembler 🖥️
-- **Web Technologies**: ReactJS, HTML, CSS, Canvas API, Webpack 🌐
+- **Programming Languages**: Go, Python, JavaScript, TypeScript, C/C++, GNU Assembler 🖥️
+- **Web Technologies**: ReactTS, HTML, CSS, SCSS, SASS, Canvas API, Webpack 🌐
 - **Tools and Technologies**: Git, Linux, Cisco Packet Tracer, Vite, Axios, Zustand ⚙️
 - **Languages**: English (Pre-Intermediate B1) 🇬🇧
 
