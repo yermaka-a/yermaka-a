@@ -30,7 +30,7 @@ Major: Information Technology 📚
 
 ### 1. Transport Demand Assessment
 - **Description**: Developed a Python program for assessing transport demand using matrix models. This project involved data analysis and algorithmic implementation to provide insights into transportation needs. 🚗
-- **Link**: [GitFlic Project](https://gitflic.ru/project/yermaka/raschet-modelei?branch=models_tree)
+- **Link**: [Visualize correspondence structures](https://github.com/yermaka-a/Transport-Demand-Assessment)
 
 ### 2. Nonograms
 - **Description**: Created a "Nonograms" game (Japanese crossword) using native JavaScript with Canvas API and Webpack. This project enhanced my skills in game development and interactive design. 🧩
