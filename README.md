@@ -11,10 +11,10 @@ Aspiring to secure an internship or junior developer position in programming and
 ---
 
 ## Education
-**[Your University Name]**  
+**Angarsk state technical university (ANGTU)**  
 Degree: Bachelor (2nd Year)  
 Major: Information Technology 📚  
-[Start Year] - Present
+2023 - Present
 
 ---
 
