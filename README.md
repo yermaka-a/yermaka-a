@@ -32,21 +32,27 @@ Major: Information Technology 📚
 - **Description**: Developed a Python program for assessing transport demand using matrix models. This project involved data analysis and algorithmic implementation to provide insights into transportation needs. 🚗
 - **Link**: [Visualize correspondence structures](https://github.com/yermaka-a/Transport-Demand-Assessment)
 
-### 2. Nonograms
+### 2. Docker Container Monitor
+- **Description**:The "Docker Container Monitor" project is a monitoring system for Docker containers, developed using modern technologies such as Go, PostgreSQL, Nginx, RabbitMQ, and React with TypeScript. It consists of four main services that operate within a single Docker network and are managed through docker-compose, facilitating easy deployment and scaling. 🐳
+- **Link**: [Monitor your containers](https://github.com/yermaka-a/Docker-Container-Monitor)
+
+### 3. Travel Advisor
+- **Description**: Developed a travel service application using React and TypeScript, incorporating features like maps and data management. This project allowed me to delve deeper into modern web development practices. ✈️
+- **Link**: [Explore Travel Advisor](https://github.com/yermaka-a/Travel-Advisor)
+
+### 4. Nonograms
 - **Description**: Created a "Nonograms" game (Japanese crossword) using native JavaScript with Canvas API and Webpack. This project enhanced my skills in game development and interactive design. 🧩
 - **Link**: [Play Nonograms](https://github.com/yermaka-a/nonograms)
 
-### 3. Coffee Shop
+### 5. Coffee Shop
 - **Description**: Developed a web application called "Coffee Shop" entirely in native JavaScript. This project focused on creating a user-friendly interface and enhancing my front-end development skills. ☕
 - **Link**: [Visit Coffee Shop](https://github.com/yermaka-a/coffee-house-week)
 
-### 4. Hangman
+### 6. Hangman
 - **Description**: Built a "Hangman" game using native JavaScript. This project helped me understand game logic and improve my coding efficiency. 🎮
 - **Link**: [Play Hangman](https://github.com/yermaka-a/hangman)
 
-### 5. Travel Advisor
-- **Description**: Developed a travel service application using React and TypeScript, incorporating features like maps and data management. This project allowed me to delve deeper into modern web development practices. ✈️
-- **Link**: [Explore Travel Advisor](https://github.com/yermaka-a/Travel-Advisor)
+
 
 ---
 
