@@ -58,10 +58,10 @@ Major: Information Technology 📚
 
 ## Research Work 
 1. **Topic**: Development of a Statistical Data Visualization Tool 📊
-  - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
+    - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
 
 2. **Topic**: Transport Demand Assessment 🚗
-  - **Software Registration No. 2025610798**: [View registration](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610798&TypeFile=html)
+    - **Software Registration No. 2025610798**: [View registration](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610798&TypeFile=html)
 ---
 
 ## Additional Information
