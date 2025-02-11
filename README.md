@@ -71,4 +71,4 @@ Major: Information Technology 📚
 ---
 
 ## Personal Qualities
-- Responsible, goal-oriented, team player, and quick learner. 🌟
+- Responsible, goal-oriented, team player, able to google, and quick learner. 🌟
