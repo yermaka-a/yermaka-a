@@ -52,6 +52,9 @@ Major: Information Technology 📚
 - **Description**: Built a "Hangman" game using native JavaScript. This project helped me understand game logic and improve my coding efficiency. 🎮
 - **Link**: [Play Hangman](https://github.com/yermaka-a/hangman)
 
+### 7. Mattermost voting bot
+ - **Description**: Developed and implemented a system for creating and managing queries on the most important using the Go programming language. The project is integrated with the most important via WebSocket and uses Tarantool to store user data, monitor manufacturers and consumers. It includes functionality for creating, managing, and analyzing survey results.
+ - **Link**: [Mattermost voting bot](https://github.com/yermaka-a/mattermost-bot-api)
 
 
 ---
