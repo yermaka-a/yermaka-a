@@ -12,7 +12,7 @@ Aspiring to secure an internship or junior developer position in programming and
 
 ## Education
 **Angarsk state technical university (ANGTU)**  
-Degree: Bachelor (2nd Year)  
+Degree: Bachelor (3rd Year)  
 Major: Information Technology 📚  
 2023 - Present
 
