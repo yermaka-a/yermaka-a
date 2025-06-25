@@ -1,5 +1,4 @@
- 
-Hi 👋 I'm Ermak
+# Hi 👋 I'm Ermak
 
 Welcome to my GitHub profile! I'm a passionate developer and always looking to learn and improve my skills.🎓  
 City: Angarsk
