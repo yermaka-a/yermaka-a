@@ -20,7 +20,7 @@ Major: Information Technology 📚
 
 ## Skills
 - **Programming Languages**: 🖥️
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yermaka-a&layout=compact)](https://github.com/yermaka-a/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yermaka-a&layout=compact)](https://github.com/yermaka-a/github-readme-stats)
 - **Web Technologies**: ReactTS, Vue, HTML, CSS, SCSS, SASS, Canvas API, Webpack 🌐
 - **Tools and Technologies**: Git, Linux, MS SQL, PostgreSQL, Cisco Packet Tracer, Vite, Axios, Zustand, effector ⚙️
 - **Languages**: English (Pre-Intermediate B1) 🇬🇧
