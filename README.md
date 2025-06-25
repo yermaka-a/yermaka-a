@@ -32,7 +32,7 @@ Major: Information Technology 📚
 | [Nonograms](https://github.com/yermaka-a/nonograms)                                     | webpack, javascript, SCSS                     |[try playing!🧩](https://yermaka-a.github.io/gh-pages/nonograms/index.html) |
 | [quote_book api](https://github.com/yermaka-a/quote_book)                               | Golang                                        |pass                                                                        |
 | [simple websocket chat](https://github.com/yermaka-a/ws-chat)                           | Golang, gorilla/mux, React, ts                |pass                                                                        |
-| [validation form table](https://github.com/yermaka-a/validation_form-table)             | react, typescript, zod, react-hook-form       |pass                                                                        |
+| [validation form table](https://github.com/yermaka-a/validation_form-table)             | react, typescript, vitest, zod, react-hook-form       |pass                                                                        |
 | [subscription service](https://github.com/yermaka-a/subscription_service)               | Golang                                        |pass                                                                        |
 | [analysis-of-business-development-potential](https://github.com/yermaka-a/analysis-of-business-development-potential)                   | Vue, effector, exceljs                        |pass                        |
 
