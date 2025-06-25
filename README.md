@@ -7,9 +7,7 @@ City: Angarsk
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yermaka)
 
 ## Education
-**Angarsk state technical university (ANGTU)**  
-Major: Information Technology 📚  
-2023 - Present
+**Angarsk state technical university (ANGTU)** | Major: Information Technology 📚 | 2023 - Present
 
 ## Skills
  **Programming Languages**: 🖥️
