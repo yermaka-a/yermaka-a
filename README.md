@@ -19,34 +19,19 @@ Major: Information Technology 📚
 
 ## Projects
 
-| Description & Repo                                                                      | Tech Stack                                    |
-|-----------------------------------------------------------------------------------------|-----------------------------------------------|
-| [Transport Demand Assessment](https://github.com/yermaka-a/Transport-Demand-Assessment) | Python                                        |
-| [Docker Container Monitor](https://github.com/yermaka-a/Docker-Container-Monitor)       | React, typescript, Go, Docker                 |
-| [Travel Advisor](https://github.com/yermaka-a/Travel-Advisor)                           | React, typescript, yandex-maps, zustand, etc  |
-| [Coffee Shop](https://github.com/yermaka-a/coffee-house-week)                           | javasript SCSS                                |
-| [Hangman](https://github.com/yermaka-a/hangman)                                         | javascript, SCSS                              |
-| [Mattermost voting bot](https://github.com/yermaka-a/mattermost-bot-api)                | Go, Docker tarantool                          |
-| [Nonograms](https://github.com/yermaka-a/nonograms) | webpack, javascript, SCSS         |                                               |
-
-
-
-
----
+| Description & Repo                                                                      | Tech Stack                                    | Deploy                                                                     |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------| ---------------------------------------------------------------------------|
+| [Transport Demand Assessment](https://github.com/yermaka-a/Transport-Demand-Assessment) | Python                                        | pass                                                                       |
+| [Docker Container Monitor](https://github.com/yermaka-a/Docker-Container-Monitor)       | React, typescript, Go, Docker                 | pass                                                                       |
+| [Travel Advisor](https://github.com/yermaka-a/Travel-Advisor)                           | React, typescript, yandex-maps, zustand, etc  | [try on netlify!🌍](https://yermaka-travel-advisor.netlify.app/)           |
+| [Coffee Shop](https://github.com/yermaka-a/coffee-house-week)                           | javasript SCSS                                |[gh-pages](https://yermaka-a.github.io/gh-pages/coffee-house/)              |
+| [Hangman](https://github.com/yermaka-a/hangman)                                         | javascript, SCSS                              |[gh-pages](https://yermaka-a.github.io/gh-pages/hangman/index.html)         |
+| [Mattermost voting bot](https://github.com/yermaka-a/mattermost-bot-api)                | Go, Docker tarantool                          |pass                                                                        |
+| [Nonograms](https://github.com/yermaka-a/nonograms)                                     | webpack, javascript, SCSS                     |[try playing!🧩](https://yermaka-a.github.io/gh-pages/nonograms/index.html) |
 
 ## Research Work 
-1. **Topic**: Development of a Statistical Data Visualization Tool 📊
-    - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
-
-2. **Topic**: Transport Demand Assessment 🚗
+**Topic**: Transport Demand Assessment 🚗
     - **Software Registration No. 2025610798**: [View registration](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610798&TypeFile=html)
----
 
-## Additional Information
-- I regularly write articles on various topics at my university, covering both IT and humanities subjects. 📝
-- Actively learning new programming languages and technologies, I am eager to expand my knowledge in the IT field. 🚀
-
----
-
-## Personal Qualities
-- Responsible, goal-oriented, team player who knows how to google and learns quickly. 🌟
+**Topic**: Development of a Statistical Data Visualization Tool 📊
+    - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
