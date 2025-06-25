@@ -3,7 +3,7 @@ Hi 👋 I'm Ermak /
 Welcome to my GitHub profile! I'm a passionate developer and always looking to learn and improve my skills.🎓  
 City: Angarsk
 
-[![email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:ermak.080@mail.ru)
+[![email](https://img.shields.io/badge/email-Contact_Me-green?style=flat-square&logo=email&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:ermak.080@mail.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yermaka)
 
 ## Education
