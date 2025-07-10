@@ -42,3 +42,4 @@ Angarsk state technical university (ANGTU) **|** Major: Information Technology ð
 
 **Topic**: Development of a Statistical Data Visualization Tool ðŸ“Š
     - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
+![Views](https://profile-counter.glitch.me/yermaka-a/count.svg)
