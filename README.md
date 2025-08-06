@@ -22,6 +22,7 @@ Angarsk state technical university (ANGTU) **|** Major: Information Technology ð
 
 | Description & Repo                                                                      | Tech Stack                                    | Deploy                                                                     |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------| ---------------------------------------------------------------------------|
+| [solar system](https://github.com/yermaka-a/solar-system)                               | three.js                                      | [gh-pages](https://yermaka-a.github.io/solar-system/)                      |
 | [Transport Demand Assessment](https://github.com/yermaka-a/Transport-Demand-Assessment) | Python, pandas, numpy, openpyxl, pyinstaller  | pass                                                                       |
 | [traffic-run-game](https://github.com/yermaka-a/traffic-run-game/)                      | ts, three.js                                  | [PLAY on gh-pages!](https://yermaka-a.github.io/traffic-run-game/)         |  
 | [test simple form](https://github.com/yermaka-a/test-simple-form)                       | Vue, pinia, tailwindcss, ts                   |[gh-pages](https://yermaka-a.github.io/test-simple-form/)                   |
