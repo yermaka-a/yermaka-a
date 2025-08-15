@@ -18,6 +18,13 @@ Angarsk state technical university (ANGTU) **|** Major: Information Technology �
 - **Tools and Technologies**: Git, Linux, MS SQL, PostgreSQL ⚙️
 - **Languages**: English (Pre-Intermediate B1) 🇬🇧
 
+## Research Work 
+**Topic**: Transport Demand Assessment 🚗
+    - **Software Registration No. 2025610798**: [View registration](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610798&TypeFile=html)
+
+**Topic**: Development of a Statistical Data Visualization Tool 📊
+    - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
+
 ## Projects
 
 | Description & Repo                                                                      | Tech Stack                                    | Deploy                                                                     |
@@ -37,12 +44,3 @@ Angarsk state technical university (ANGTU) **|** Major: Information Technology �
 | [validation form table](https://github.com/yermaka-a/validation_form-table)             | react, typescript, vitest, zod, react-hook-form, tanstack-query       |pass                                                                        |
 | [subscription service](https://github.com/yermaka-a/subscription_service)               | Golang                                        |pass                                                                        |
 | [analysis-of-business-development-potential](https://github.com/yermaka-a/analysis-of-business-development-potential)                   | Vue, effector, exceljs                        |pass                        |
-
-## Research Work 
-**Topic**: Transport Demand Assessment 🚗
-    - **Software Registration No. 2025610798**: [View registration](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610798&TypeFile=html)
-
-**Topic**: Development of a Statistical Data Visualization Tool 📊
-    - **Publication**: [View Article](https://angtu.editorum.ru/ru/nauka/article/84184/view)
-
-
