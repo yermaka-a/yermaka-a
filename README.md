@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer and always looking to learn and improve my skills.🎓  
 City: Angarsk
 
-email: ermak.080@mail.ru | https://t.me/yermaka
+ermak.080@mail.ru | https://t.me/yermaka
 
 ## Education
 Angarsk state technical university (ANGTU) **|** Major: Information Technology 📚 **|** 2023 - Present
