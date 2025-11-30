@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer and always looking to learn and improve my skills.🎓  
 City: Angarsk
 
-[![email](https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ermak.080@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yermaka)
+email: ermak.080@mail.ru | https://t.me/yermaka
 
 ## Education
 Angarsk state technical university (ANGTU) **|** Major: Information Technology 📚 **|** 2023 - Present
