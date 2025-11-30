@@ -11,9 +11,6 @@ Angarsk state technical university (ANGTU) **|** Major: Information Technology �
 
 ## Skills
  **Programming Languages**: 🖥️
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yermaka-a&layout=compact)](https://github.com/yermaka-a/github-readme-stats)
-
 - **Web Technologies**: React, Vue, Canvas API, Webpack, Axios, Zustand, effector 🌐
 - **Tools and Technologies**: Git, Linux, MS SQL, PostgreSQL ⚙️
 - **Languages**: English (Pre-Intermediate B1) 🇬🇧
